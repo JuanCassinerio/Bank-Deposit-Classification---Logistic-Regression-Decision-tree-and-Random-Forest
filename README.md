@@ -4,6 +4,7 @@
 
 # Algoritmo Predictivo de probabilidad de que Clientes Bancarios realicen Depósitos a Plazo
 Integrantes del proyecto: Juan Cassinerio - Juan Isasi - Jose Vargas
+
 Fecha de actualización: 18/03/2023
 
 # Resumen
