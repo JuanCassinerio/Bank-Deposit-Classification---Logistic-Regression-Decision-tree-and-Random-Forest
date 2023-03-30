@@ -9,19 +9,12 @@ Fecha de actualización: 18/03/2023
 # Resumen
 
 ## Introducción
- Contexto empresarial
-Dentro de los productos y servicios que ofrecen los bancos, los depósitos a plazo representan un gran porcentaje de las fuentes de
-ingresos. Para poder maximizar la cantidad de depósitos a plazo realizados, se buscará identificar a los clientes (parámetros) que tengan
-la mayor probabilidad de subscribirse a este tipo de producto y de esa manera poder mejorar los esfuerzos de marketing en dichos clientes.
- Problema empresarial
-Se recopilo un conjuntos de datos con el objetivo de desarrollar modelos de machine learning para predecir la probabilidad de que clientes
-realicen depósitos a plazo en bancos. Estos datos fueron tomados de una campaña de marketing de una importante institución bancaria de Portugal.
- Contexto analítico
+Dentro de los productos y servicios que ofrecen los bancos, los depósitos a plazo representan un gran porcentaje de las fuentes de ingresos. Para poder maximizar la cantidad de depósitos a plazo realizados, se buscará identificar a los clientes (parámetros) que tengan la mayor probabilidad de subscribirse a este tipo de producto y de esa manera poder mejorar los esfuerzos de marketing en dichos clientes.
+
+Para ello recopilo un conjuntos de datos con el objetivo de desarrollar modelos de machine learning para predecir la probabilidad de que clientes realicen depósitos a plazo en bancos. Estos datos fueron tomados de una campaña de marketing de una importante institución bancaria de Portugal.
+
 Se nos permitió el acceso a un .cvs donde emplearemos un análisis descriptivo para poder entender de mejor forma los datos recopilados y su relación con la variable a investigar "y" (Si el depósito a plazo fue realizado o no).
 Dataset: https://www.kaggle.com/datasets/rashmiranu/bankingdataset-classification).
-
-## Dataset y Análisis de Variables
-El análisis servirá para verificar si una persona será propensa a realizar un depósito a plazo. La variable output a predecir es y donde 1: se suscribió 0: no se suscribió.
 
 # Conclusiones
 Del análisis de los datos pudimos reconocer que las variables Edad, Mes, Estado Civil y Tiempo de última llamada con el Cliente juegan un factor determinante en la probabilidad de que los clientes se subscriban o no a un depósito a plazo. Siendo las siguientes las condiciones óptimas:
