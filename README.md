@@ -1,6 +1,5 @@
-
 <div style="text-align:center">
-    <img src="https://github.com/JuanCassinerio/Bank-Deposit-Classification---Logistic-Regression-Decision-tree-and-Random-Forest/blob/main/logo.jpg" alt="Logo" width="300" >
+    <img src="https://github.com/JuanCassinerio/Bank-Deposit-Classification---Logistic-Regression-Decision-tree-and-Random-Forest/blob/main/logo.jpg" alt="Logo" width="300">
 </div>
 
 
