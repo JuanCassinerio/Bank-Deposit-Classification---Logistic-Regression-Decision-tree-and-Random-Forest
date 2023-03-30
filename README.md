@@ -2,7 +2,7 @@
   <img src="https://github.com/JuanCassinerio/Bank-Deposit-Classification---Logistic-Regression-Decision-tree-and-Random-Forest/blob/main/logo.jpg" width="300" alt="Logo">
 </p>
 
-# algortmo Predictivo de que Clientes Bancarios realicen Depósitos a Plazo
+# Algoritmo Predictivo de probabilidad de que Clientes Bancarios realicen Depósitos a Plazo
 Integrantes del proyecto: Juan Cassinerio - Juan Isasi - Jose Vargas
 Fecha de actualización: 18/03/2023
 
