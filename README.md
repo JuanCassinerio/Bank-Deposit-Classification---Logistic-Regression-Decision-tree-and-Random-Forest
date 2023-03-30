@@ -7,7 +7,6 @@ Integrantes del proyecto: Juan Cassinerio - Juan Isasi - Jose Vargas
 Fecha de actualización: 18/03/2023
 
 # Resumen
-
 ## Introducción
 Dentro de los productos y servicios que ofrecen los bancos, los depósitos a plazo representan un gran porcentaje de las fuentes de ingresos. Para poder maximizar la cantidad de depósitos a plazo realizados, se buscará identificar a los clientes (parámetros) que tengan la mayor probabilidad de subscribirse a este tipo de producto y de esa manera poder mejorar los esfuerzos de marketing en dichos clientes.
 
@@ -18,7 +17,7 @@ Dataset: https://www.kaggle.com/datasets/rashmiranu/bankingdataset-classificatio
 
 # Conclusiones
 Del análisis de los datos pudimos reconocer que las variables Edad, Mes, Estado Civil y Tiempo de última llamada con el Cliente juegan un factor determinante en la probabilidad de que los clientes se subscriban o no a un depósito a plazo. Siendo las siguientes las condiciones óptimas:
-- Edad:18-25 y 60-100
+- Edad: 18-25 y 60-100
 - Mes: Marzo, Septiembre, Octubre y Diciembre
 - Estado Civil: Soltero
 - Tiempo de última llamada con el Cliente: 12min
