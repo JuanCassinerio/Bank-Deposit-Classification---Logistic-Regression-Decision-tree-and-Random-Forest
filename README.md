@@ -5,7 +5,7 @@
 # Algoritmo Predictivo de probabilidad de que Clientes Bancarios realicen Depósitos a Plazo
 Integrantes del proyecto: Juan Cassinerio - Juan Isasi - Jose Vargas
 
-Fecha de actualización: 18/03/2023
+Ultima Fecha de actualización: 18/03/2023
 
 # Resumen
 Dentro de los productos y servicios que ofrecen los bancos, los depósitos a plazo representan un gran porcentaje de las fuentes de ingresos. Para poder maximizar la cantidad de depósitos a plazo realizados, se buscará identificar a los clientes (parámetros) que tengan la mayor probabilidad de subscribirse a este tipo de producto y de esa manera poder mejorar los esfuerzos de marketing en dichos clientes.
