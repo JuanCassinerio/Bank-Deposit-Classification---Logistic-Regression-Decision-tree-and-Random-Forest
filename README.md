@@ -7,7 +7,6 @@ Integrantes del proyecto: Juan Cassinerio - Juan Isasi - Jose Vargas
 Fecha de actualización: 18/03/2023
 
 # Resumen
-## Introducción
 Dentro de los productos y servicios que ofrecen los bancos, los depósitos a plazo representan un gran porcentaje de las fuentes de ingresos. Para poder maximizar la cantidad de depósitos a plazo realizados, se buscará identificar a los clientes (parámetros) que tengan la mayor probabilidad de subscribirse a este tipo de producto y de esa manera poder mejorar los esfuerzos de marketing en dichos clientes.
 
 Para ello recopilo un conjuntos de datos con el objetivo de desarrollar modelos de machine learning para predecir la probabilidad de que clientes realicen depósitos a plazo en bancos. Estos datos fueron tomados de una campaña de marketing de una importante institución bancaria de Portugal.
