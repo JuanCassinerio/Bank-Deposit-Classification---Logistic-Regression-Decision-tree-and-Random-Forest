@@ -18,13 +18,3 @@ Para ello recopilo un conjuntos de datos con el objetivo de desarrollar modelos 
 
 Se nos permitió el acceso a un .cvs donde emplearemos un análisis descriptivo para poder entender de mejor forma los datos recopilados y su relación con la variable a investigar "y" (Si el depósito a plazo fue realizado o no).
 Dataset: https://www.kaggle.com/datasets/rashmiranu/bankingdataset-classification).
-
-# Conclusiones
-Del análisis de los datos pudimos reconocer que las variables Edad, Mes, Estado Civil y Tiempo de última llamada con el Cliente juegan un factor determinante en la probabilidad de que los clientes se subscriban o no a un depósito a plazo. Siendo las siguientes las condiciones óptimas:
-- Edad: 18-25 y 60-100
-- Mes: Marzo, Septiembre, Octubre y Diciembre
-- Estado Civil: Soltero
-- Tiempo de última llamada con el Cliente: 12min
-Los modelos implementados lograron predecir el comportamiento observado en los datos con una precisión mayor al 86%, siendo el modelo de Regresión Logística aquel con mayor precisión, de un 91%. Proponemos utilizar el algoritmo de regresión logística en la base de datos de bancos para seleccionar a los prospectos a los cuales se le contactará mediante una campaña telefónica exclusiva, eficientizando el tiempo y el esfuerzo del call center.
-
-
