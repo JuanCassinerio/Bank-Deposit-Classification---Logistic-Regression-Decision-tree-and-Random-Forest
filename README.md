@@ -1,3 +1,7 @@
+# CoderHouse_Git / Curso DataScience 
+
+Esta carpeta contiene los archivos para el proyecto final del curso de Data Scientist de CoderHouse.
+
 <p align="center">
   <img src="https://github.com/JuanCassinerio/Bank-Deposit-Classification---Logistic-Regression-Decision-tree-and-Random-Forest/blob/main/logo.jpg" width="300" alt="Logo">
 </p>
